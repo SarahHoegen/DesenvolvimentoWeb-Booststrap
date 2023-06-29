@@ -1,0 +1,31 @@
+.margin {
+    margin-top: 30px;
+}
+.navbar {
+    background-color: rgb(119, 204, 238);
+}
+.lore{
+    background-color: azure;
+}
+.bg-footer {
+    background-color: rgb(19, 56, 56);
+}
+.cita {
+    padding: 30px 170px 30px 170px;
+}
+.bd-navbar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1071;
+}
+.total {
+    height: 100%;
+    width: 100%;
+}
+.bah {
+    margin-left: 20%;
+    padding-right: 20%;
+}
+
+col-12{width: 100%;}

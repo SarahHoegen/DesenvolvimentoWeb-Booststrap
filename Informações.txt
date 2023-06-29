@@ -1,0 +1,13 @@
+Aluna: Sarah Hoegen
+
+  dados para o banco:
+     mysql:host=localhost
+     dbname=sarahgenshin'
+     user:'sarinha'
+     senha:'sarah'
+Caso preciso alterar alguma coisa, acessar arquivo Champ.php
+Os botões estão com endereçamento http://localhost/TrabDesWeb/ então a pasta precisa ser colocada de acordo.
+
+  Como essa aplicação era mais simples eu não utilizei a minha classe champions, farei isto para a prova. Usei o metodo get para visualizar
+melhor os dados pela url, mas para informações como login eu usarei post.
+  O login não foi implementado, é um arquivo sobrando do trabalho1
